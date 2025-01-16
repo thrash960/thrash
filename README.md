@@ -1,0 +1,2 @@
+# thrash
+my file
